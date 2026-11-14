@@ -1,0 +1,6 @@
+{
+  "reviewer": {
+    "1": "Review the following request in ${language}. Give a short answer.",
+    "2": "Review the following request in ${language}. Include one concrete example."
+  }
+}
